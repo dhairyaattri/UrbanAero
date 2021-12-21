@@ -1,6 +1,6 @@
 ## UrbanAero E-Commerce Platform
 
-* E-Commerce platform built with React, Redux, Node, Express & MongoDB.
+* E-Commerce platform built with React, Redux, Node, Express & MongoDB
 * Full featured shopping cart with PayPal & credit/debit payments
 * Admin area to manage customers, products & orders
 * Product search, carousel, pagination & more
